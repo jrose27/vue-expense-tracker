@@ -5,7 +5,7 @@ This template should help get you started developing with Vue 3 in Vite.
 ## Vue JS 3
 
 This app uses Vue JS 3 with the composition api.
-The app also uses the <script setup> syntaxs
+The app also uses the <script setup> syntax
 
 ## Recommended IDE Setup
 
