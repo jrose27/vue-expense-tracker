@@ -7,6 +7,10 @@ This template should help get you started developing with Vue 3 in Vite.
 This app uses Vue JS 3 with the composition api.
 The app also uses the <script setup> syntax
 
+## Tutorial Link
+
+https://www.youtube.com/watch?v=hNPwdOZ3qFU
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
